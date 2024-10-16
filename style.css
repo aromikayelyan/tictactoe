@@ -1,0 +1,35 @@
+body{
+  background-color: rgb(161, 161, 151);
+
+
+}
+.dd{
+  margin: 40%;
+  margin-top: 10%;
+
+
+}
+.d1{
+   
+   display: flex;
+
+}
+.d2{
+   
+    display: flex;
+ }
+.d3{
+    display: flex;
+ }
+
+ .block{
+   font-size: 50px;
+   border: solid 1px black;
+   width: 70px;
+   height: 70px;
+   text-align: center;
+   
+   
+
+
+ }
